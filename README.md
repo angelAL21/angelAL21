@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @angelAL21 , I'm 22 years old and I'm from México.
-- 👀 I’m interested in Distributed systems and Backend. Also, I love reading and learning.
-- 🌱 I’m currently mastering Golang and other technologies of backend. My second programming language is Python.
-- 💞️ I’m looking to collaborate on Personal Projects to practice for work.
+- 👋 Hi, I’m @angelAL21 , I'm 23 years old and I'm from México.
+- 👀 I’m interested in Backend. Also, I love reading and learning.
+- 🌱 I’m currently mastering Golang and other technologies of backend. My second programming language is Python for solving programming problems and Django.
 - 📫 How to reach me: angell_2104@hotmail.com
 
 <!---
